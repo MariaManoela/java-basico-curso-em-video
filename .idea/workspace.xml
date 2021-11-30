@@ -46,20 +46,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.TiposPrimitivos">
-    <configuration name="LinguagemDoSistema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicio02.LinguagemDoSistema" />
-      <module name="java-curso-em-video" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercicio02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TesteTipos">
     <configuration name="OlaMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicio03.OlaMundo" />
       <module name="java-curso-em-video" />
@@ -99,6 +86,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteTipos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio05.TesteTipos" />
+      <module name="java-curso-em-video" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TiposPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicio05.TiposPrimitivos" />
       <module name="java-curso-em-video" />
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteTipos" />
         <item itemvalue="Application.TiposPrimitivos" />
         <item itemvalue="Application.RelogioSwing" />
         <item itemvalue="Application.OlaMundo" />
         <item itemvalue="Application.ResolucaoTela" />
-        <item itemvalue="Application.LinguagemDoSistema" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1635515397567</updated>
       <workItem from="1638185874707" duration="11954000" />
-      <workItem from="1638274830409" duration="1994000" />
+      <workItem from="1638274830409" duration="3624000" />
     </task>
     <servers />
   </component>
