@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b6f9b478-6440-454d-97db-0577c466aac0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-curso-em-video/exercicio06/SomaSwing$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-curso-em-video/exercicio06/SomaSwing$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-curso-em-video/exercicio06/SomaSwing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-curso-em-video/exercicio06/SomaSwing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-curso-em-video/exercicio06/SomaSwing$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-curso-em-video/exercicio06/SomaSwing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio06/SomaSwing.form" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/exercicio06/SomaSwing.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,7 +139,7 @@
       <workItem from="1638185874707" duration="11954000" />
       <workItem from="1638274830409" duration="6767000" />
       <workItem from="1638296858822" duration="12000" />
-      <workItem from="1638791968660" duration="4651000" />
+      <workItem from="1638791968660" duration="4982000" />
     </task>
     <servers />
   </component>

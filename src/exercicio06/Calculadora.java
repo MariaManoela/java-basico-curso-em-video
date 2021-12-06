@@ -1,6 +1,4 @@
-package exercicio07;
-
-import exercicio04.RelogioSwing;
+package exercicio06;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
