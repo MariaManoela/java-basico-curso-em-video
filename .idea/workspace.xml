@@ -48,7 +48,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.OperadoresAritmeticos">
+  <component name="RunManager" selected="Application.OperadoresSwing">
     <configuration name="Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicio06.Calculadora" />
       <module name="java-curso-em-video" />
@@ -64,6 +64,19 @@
     </configuration>
     <configuration name="OperadoresAritmeticos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicio07.OperadoresAritmeticos" />
+      <module name="java-curso-em-video" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperadoresSwing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio07.OperadoresSwing" />
       <module name="java-curso-em-video" />
       <extension name="coverage">
         <pattern>
@@ -101,26 +114,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteTipos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicio05.TesteTipos" />
-      <module name="java-curso-em-video" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercicio05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperadoresSwing" />
         <item itemvalue="Application.OperadoresAritmeticos" />
         <item itemvalue="Application.Calculadora" />
         <item itemvalue="Application.SomaSwing" />
         <item itemvalue="Application.RelogioSwing" />
-        <item itemvalue="Application.TesteTipos" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +136,7 @@
       <workItem from="1638274830409" duration="6767000" />
       <workItem from="1638296858822" duration="12000" />
       <workItem from="1638791968660" duration="6562000" />
-      <workItem from="1638800910982" duration="351000" />
+      <workItem from="1638800910982" duration="1312000" />
     </task>
     <servers />
   </component>
