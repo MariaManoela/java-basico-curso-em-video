@@ -19,17 +19,17 @@ public class SuperCalculadora {
             @Override
             public void actionPerformed(ActionEvent e) {
                 int valor = (int) spinner1.getValue();
-                float resto = valor % 2;
-                float elevadoCubo = (float) Math.pow(valor, 3);
+                int resto = valor % 2;
+                int elevadoCubo = (int) Math.pow(valor, 3);
                 float raizQuad = (float) Math.sqrt(valor);
                 float raizCub = (float) Math.cbrt(valor);
-                float valorAbs = Math.abs(valor);
+                int valorAbs = Math.abs(valor);
 
-                lblResto.setText(Float.toString(resto));
-                lblEelevadoCubo.setText(Float.toString(elevadoCubo));
-                lblRaizQuad.setText(Float.toString(raizQuad));
-                lblRaizCub.setText(Float.toString(raizCub));
-                lblValorAbs.setText(Float.toString(valorAbs));
+                lblResto.setText(Integer.toString(resto));
+                lblEelevadoCubo.setText(Integer.toString(elevadoCubo));
+                lblRaizQuad.setText(String.format("%.2f", raizQuad));
+                lblRaizCub.setText(String.format("%.2f", raizCub));
+                lblValorAbs.setText(Integer.toString(valorAbs));
             }
         });
     }
