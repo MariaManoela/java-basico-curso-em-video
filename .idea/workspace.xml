@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b6f9b478-6440-454d-97db-0577c466aac0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-curso-em-video/exercicio07/OperadoresAritmeticos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-curso-em-video/exercicio07/OperadoresAritmeticos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio07/OperadoresAritmeticos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio07/OperadoresAritmeticos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,7 @@
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="109" />
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="219" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springJpaAirbnb" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -48,7 +50,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.OperadoresSwing">
+  <component name="RunManager" selected="Application.OperadoresAritmeticos">
     <configuration name="Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicio06.Calculadora" />
       <module name="java-curso-em-video" />
@@ -116,8 +118,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OperadoresSwing" />
         <item itemvalue="Application.OperadoresAritmeticos" />
+        <item itemvalue="Application.OperadoresSwing" />
         <item itemvalue="Application.Calculadora" />
         <item itemvalue="Application.SomaSwing" />
         <item itemvalue="Application.RelogioSwing" />
@@ -136,7 +138,7 @@
       <workItem from="1638274830409" duration="6767000" />
       <workItem from="1638296858822" duration="12000" />
       <workItem from="1638791968660" duration="6562000" />
-      <workItem from="1638800910982" duration="1312000" />
+      <workItem from="1638800910982" duration="3104000" />
     </task>
     <servers />
   </component>
