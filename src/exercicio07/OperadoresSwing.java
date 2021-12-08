@@ -6,23 +6,23 @@ import java.awt.event.ActionListener;
 
 public class OperadoresSwing {
     private JPanel panel1;
-    private JButton btnDividir;
+    private JButton btnCalcular;
     private JTextField txtNumerador;
     private JTextField txtDenominador;
     private JLabel lblDivisao;
-    private JLabel lblResto;
+    private JLabel lblResultado;
 
     public OperadoresSwing() {
-        btnDividir.addActionListener(new ActionListener() {
+        btnCalcular.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 int numerador = Integer.parseInt(txtNumerador.getText());
                 int denominador = Integer.parseInt(txtDenominador.getText());
                 float divisao = numerador / denominador;
-                float resto = numerador % denominador;
+                float resultado = (float) Math.sqrt(numerador);
 
                 lblDivisao.setText(Float.toString(divisao));
-                lblResto.setText(Float.toString(resto));
+                lblResultado.setText(Float.toString(resultado));
             }
         });
     }
