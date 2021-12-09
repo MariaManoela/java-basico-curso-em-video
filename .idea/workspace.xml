@@ -48,13 +48,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.OperadorTernario">
-    <configuration name="Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicio06.Calculadora" />
+  <component name="RunManager" selected="Application.ComparacaoString">
+    <configuration name="ComparacaoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio10.ComparacaoString" />
       <module name="java-curso-em-video" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercicio06.*" />
+          <option name="PATTERN" value="exercicio10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComparacaoString" />
         <item itemvalue="Application.OperadorTernario" />
         <item itemvalue="Application.SuperCalculadora" />
         <item itemvalue="Application.OperadoresAritmeticos" />
         <item itemvalue="Application.OperadoresSwing" />
-        <item itemvalue="Application.Calculadora" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +138,7 @@
       <workItem from="1638791968660" duration="6562000" />
       <workItem from="1638800910982" duration="3104000" />
       <workItem from="1638963752424" duration="4468000" />
-      <workItem from="1639052161724" duration="1030000" />
+      <workItem from="1639052161724" duration="2065000" />
     </task>
     <servers />
   </component>
