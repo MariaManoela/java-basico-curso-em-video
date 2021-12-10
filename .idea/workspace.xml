@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6f9b478-6440-454d-97db-0577c466aac0" name="Changes" comment="" />
+    <list default="true" id="b6f9b478-6440-454d-97db-0577c466aac0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +48,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.OperadoresLogicos">
+  <component name="RunManager" selected="Application.LeitorDePensamento">
     <configuration name="ComparacaoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicio10.ComparacaoString" />
       <module name="java-curso-em-video" />
@@ -60,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadorTernario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicio09.OperadorTernario" />
+    <configuration name="LeitorDePensamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio12.LeitorDePensamento" />
       <module name="java-curso-em-video" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercicio09.*" />
+          <option name="PATTERN" value="exercicio12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadoresAritmeticos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicio07.OperadoresAritmeticos" />
+    <configuration name="OperadorTernario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio09.OperadorTernario" />
       <module name="java-curso-em-video" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercicio07.*" />
+          <option name="PATTERN" value="exercicio09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeitorDePensamento" />
+        <item itemvalue="Application.SuperCalculadora" />
         <item itemvalue="Application.OperadoresLogicos" />
         <item itemvalue="Application.ComparacaoString" />
         <item itemvalue="Application.OperadorTernario" />
-        <item itemvalue="Application.SuperCalculadora" />
-        <item itemvalue="Application.OperadoresAritmeticos" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +138,9 @@
       <workItem from="1638791968660" duration="6562000" />
       <workItem from="1638800910982" duration="3104000" />
       <workItem from="1638963752424" duration="4468000" />
-      <workItem from="1639052161724" duration="2417000" />
+      <workItem from="1639052161724" duration="5961000" />
+      <workItem from="1639074656291" duration="418000" />
+      <workItem from="1639145674347" duration="3620000" />
     </task>
     <servers />
   </component>
